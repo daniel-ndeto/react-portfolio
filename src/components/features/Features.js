@@ -3,7 +3,7 @@ import Title from "../layouts/Title";
 import Card from "./Card";
 import { featuresData } from "../../data/data";
 const Features = () => {
-  // 
+  // renders the features section of the website
   return (
     <section
       id="features"
