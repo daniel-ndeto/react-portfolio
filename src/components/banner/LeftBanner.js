@@ -5,10 +5,22 @@ import Media from './Media';
 // LeftBanner component with typewriter effect and media integration
 const LeftBanner = () => {
     const [text] = useTypewriter({
-      words: ["Professional Coder.", "Full Stack Developer.", "UI Designer."],
+      words: [
+        "Professional Coder.",
+        "Full Stack Developer.",
+        "UI Designer.",
+        "Web Developer.",
+        "Software Engineer.",
+        "React Developer.",
+        "Frontend Developer.",
+        "Backend Developer.",
+        "Tech Enthusiast.",
+        "Creative Coder.",
+        "Digital Thinker.",
+      ],
       loop: true,
       typeSpeed: 20,
-      deleteSpeed: 10,
+      deleteSpeed: 50,
       delaySpeed: 2000,
     });
 
@@ -20,20 +32,21 @@ const LeftBanner = () => {
         <div className="flex flex-col gap-5">
           <h4 className=" text-lg font-normal">WELCOME TO MY WORLD</h4>
           <h1 className="text-6xl font-bold text-white">
-            Hi, I'm <span className="text-designColor capitalize">Daniel Ndeto</span>
+            Hi, I'm{" "}
+            <span className="text-designColor capitalize">Daniel Ndeto</span>
           </h1>
-          <h2 className="text-4xl font-bold text-white">
+          <h2 className="text-4xl font-bold text-pink">
             a <span>{text}</span>
             <Cursor
               cursorBlinking="false"
-              cursorStyle="|"
+              cursorStyle="|*"
               cursorColor="#ff014f"
             />
           </h2>
           <p className="text-base font-bodyFont leading-6 tracking-wide">
-            I use animation as a third dimension by which to simplify experiences
-            and kuiding thro each and every interaction. I'm not adding motion
-            just to spruce things up, but doing it in ways that.
+  I believe in transforming ideas into experiences that resonate. By seamlessly integrating subtle animations and intuitive design,
+  I create interfaces that captivate and guide users effortlessly. Every project is an opportunity to
+  blend creativity with robust code,ensuring that digital experiences are as delightful as they are functional.
           </p>
         </div>
         <Media />

@@ -17,39 +17,46 @@ const Projects = () => {
       </div>
       <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 xl:gap-14">
         <ProjectsCard
-          title="SOCIAL MEDIA CLONE"
-          des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-              Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
+          title="SCHOOL MANAGEMENT SYSTEM"
+          des="An all-inclusive system designed for academic institutions. 
+          This platform streamlines student enrollment, attendance tracking, 
+          grade management, and communication between staff, teachers, and students."
           src={projectOne}
         />
         <ProjectsCard
           title="E-commerce Website"
-          des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-              Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
+          des="A fully responsive online store offering secure payment integration, 
+          efficient inventory management, and an intuitive user interface that delivers
+           a seamless shopping experience for customers."
           src={projectTwo}
         />
         <ProjectsCard
           title="Chatting App"
-          des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-              Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
+          des="A real-time messaging application that supports one-to-one and group chats, 
+          media sharing, and push notifications. Built with modern web technologies to enable 
+          instantaneous communication."
           src={projectThree}
         />
         <ProjectsCard
-          title="SOCIAL MEDIA CLONE"
-          des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-              Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
+          title="TRAVEL BOOKING APP"
+          des="An intuitive travel platform that simplifies the search and booking of flights, 
+          hotels, and tours. Emphasizing personalization, it offers users tailored travel 
+          recommendations and streamlined booking processes."
           src={projectThree}
         />
         <ProjectsCard
-          title="E-commerce Website"
-          des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-              Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
+          title="COLLEGE MANAGEMENT SYSTEM"
+          des="A robust portal tailored for higher education institutions. 
+          It facilitates course scheduling, faculty coordination, student information 
+          management, and streamlines day-to-day administrative tasks."
           src={projectOne}
         />
         <ProjectsCard
-          title="Chatting App"
-          des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-              Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
+          title="LMS SYSTEM"
+          des="A feature-rich Learning Management System (LMS) designed to enhance
+           online education. It offers interactive course 
+           materials, real-time progress tracking, assessments, and comprehensive reporting 
+           for educators."
           src={projectTwo}
         />
       </div>

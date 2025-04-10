@@ -20,8 +20,9 @@ const ContactLeft = () => {
           MERN Stack Developer
         </p>
         <p className="text-base text-gray-400 tracking-wide">
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facilis
-          ipsam autem cumque, accusantium dicta odio.
+        I am a dedicated MERN Stack Developer with a passion for crafting modern, 
+        user-centric web applications. By combining robust backend solutions with dynamic frontend designs,
+        I strive to create digital experiences that are both innovative and reliable.
         </p>
         <p className="text-base text-gray-400 flex items-center gap-2">
           Phone: <span className="text-lightText">+254 113 877 422</span>

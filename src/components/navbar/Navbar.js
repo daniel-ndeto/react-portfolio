@@ -45,9 +45,8 @@ const Navbar = () => {
               <div>
                 <img className="w-32" src={logo} alt="logo" />
                 <p className="text-sm text-gray-400 mt-2">
-                  Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                  Earum soluta perspiciatis molestias enim cum repellat, magnam
-                  exercitationem distinctio aliquid nam.
+                I am a dedicated developer passionate about creating digital experiences that resonate with users. 
+                Explore my portfolio to discover innovative solutions and creative designs that bring ideas to life.
                 </p>
               </div>
               <ul className="flex flex-col gap-4">

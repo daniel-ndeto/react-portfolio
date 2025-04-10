@@ -6,37 +6,37 @@ import { SiProgress, SiAntdesign } from "react-icons/si";
 export const featuresData = [
   {
     id: 1,
-    title: "Business Stratagy",
-    des: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque solutahic consequuntur eum repellendus ad",
+    title: "Web Development",
+    des: "Excellent in creating responsive and user-friendly websites using modern technologies.",
   },
   {
     id: 2,
     icon: <AiFillAppstore />,
     title: "App Development",
-    des: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque solutahic consequuntur eum repellendus ad",
+    des: "Excellent in building mobile applications for both iOS and Android platforms.",
   },
   {
     id: 3,
     icon: <SiProgress />,
-    title: "SEO Optimisation",
-    des: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque solutahic consequuntur eum repellendus ad",
+    title: "MERN Stack Development",
+    des: "Excellent in developing full-stack web applications using MongoDB, Express, React, and Node.js.",
   },
   {
     id: 4,
     icon: <FaMobile />,
     title: "Mobile Development",
-    des: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque solutahic consequuntur eum repellendus ad",
+    des: "Excellent in creating mobile-first designs and responsive layouts for optimal user experience.",
   },
   {
     id: 5,
     icon: <SiAntdesign />,
     title: "UX Design",
-    des: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque solutahic consequuntur eum repellendus ad",
+    des: "Excellent in designing intuitive and visually appealing user interfaces for web and mobile applications.",
   },
   {
     id: 6,
     icon: <FaGlobe />,
     title: "Hosting Websites",
-    des: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque solutahic consequuntur eum repellendus ad",
+    des: "Excellent in deploying and managing websites on various hosting platforms.",
   },
 ];

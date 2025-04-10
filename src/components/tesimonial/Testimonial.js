@@ -110,7 +110,7 @@ const Testimonial = () => {
                   <p className="text-xs uppercase text-designColor tracking-wide mb-2">
                     Bound - Trolola
                   </p>
-                  <h3 className="text-2xl font-bold">Jone Duone Joe</h3>
+                  <h3 className="text-2xl font-bold">Daniel Musyoki</h3>
                   <p className="text-base tracking-wide text-gray-500">
                     Operation Officer
                   </p>
@@ -125,7 +125,7 @@ const Testimonial = () => {
                         Travel Mobile App Design.
                       </h3>
                       <p className="text-base text-gray-400 mt-3">
-                        via Upwork - Mar 4, 2015 - Aug 30, 2021 test
+                        via Upwork - Mar 4, 2023 - Aug 30, 2023 test
                       </p>
                     </div>
                     <div className="text-yellow-500 flex gap-1">
@@ -137,11 +137,13 @@ const Testimonial = () => {
                     </div>
                   </div>
                   <p className="text-base font-titleFont text-gray-400 font-medium tracking-wide leading-6">
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. A
-                    dolorum, eos natus ipsum numquam veniam officia
-                    necessitatibus ratione quos debitis exercitationem
-                    repudiandae facilis id neque nihil accusantium perspiciatis
-                    repellat? Iste.
+                    Working with Ndeto has been a game-changer for our team. His
+                    expertise in mobile app design is unparalleled, and he
+                    consistently delivers innovative solutions that exceed our
+                    expectations. Jone's ability to understand our vision and
+                    translate it into a user-friendly and visually appealing app
+                    is truly remarkable. We highly recommend Ndeto to anyone
+                    looking for a top-tier mobile app designer.
                   </p>
                 </div>
               </div>
@@ -159,9 +161,9 @@ const Testimonial = () => {
                 />
                 <div className="w-full flex flex-col justify-end">
                   <p className="text-xs uppercase text-designColor tracking-wide mb-2">
-                    Bound - Trolola
+                    PLP Academy
                   </p>
-                  <h3 className="text-2xl font-bold">Jone Duone Joe</h3>
+                  <h3 className="text-2xl font-bold">Nicholas Deto</h3>
                   <p className="text-base tracking-wide text-gray-500">
                     Operation Officer
                   </p>
@@ -173,10 +175,10 @@ const Testimonial = () => {
                   <div className="flex flex-col justify-between lgl:items-center py-6 border-b-2 border-b-gray-900">
                     <div>
                       <h3 className="text-xl lgl:text-2xl font-medium tracking-wide">
-                        Travel Mobile App Design.
+                        MERN Stack Development.
                       </h3>
                       <p className="text-base text-gray-400 mt-3">
-                        via Upwork - Mar 4, 2015 - Aug 30, 2021 test
+                        via PLP Academy - Jan 4, 2024 - Dec 30, 2024
                       </p>
                     </div>
                     <div className="text-yellow-500 flex gap-1">
@@ -188,11 +190,12 @@ const Testimonial = () => {
                     </div>
                   </div>
                   <p className="text-base font-titleFont text-gray-400 font-medium tracking-wide leading-6">
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. A
-                    dolorum, eos natus ipsum numquam veniam officia
-                    necessitatibus ratione quos debitis exercitationem
-                    repudiandae facilis id neque nihil accusantium perspiciatis
-                    repellat? Iste.
+                    Ndeto is an exceptional MERN stack developer who has
+                    consistently delivered high-quality work for our projects.
+                    His expertise in MongoDB, Express, React, and Node.js is
+                    evident in the robust and scalable applications he has
+                    developed. Nicholas is a valuable asset to any team, and we
+                    highly recommend him for any MERN stack development project.
                   </p>
                 </div>
               </div>
@@ -205,14 +208,14 @@ const Testimonial = () => {
               <div className="w-full lgl:w-[35%] h-full bg-gradient-to-r from-[#1e2024] to-[#23272b] p-8 rounded-lg shadow-shadowOne flex flex-col md:flex-row lgl:flex-col gap-8 justify-center md:justify-start lgl:justify-center">
                 <img
                   className="h-72 md:h-32 lgl:h-72 rounded-lg object-cover"
-                  src={testimonialOne}
-                  alt="testimonialOne"
+                  src={testimonialTwo}
+                  alt="testimonialTwo"
                 />
                 <div className="w-full flex flex-col justify-end">
                   <p className="text-xs uppercase text-designColor tracking-wide mb-2">
-                    Bound - Trolola
+                    FastNet Cyber Solutions
                   </p>
-                  <h3 className="text-2xl font-bold">Jone Duone Joe</h3>
+                  <h3 className="text-2xl font-bold"> Damaris </h3>
                   <p className="text-base tracking-wide text-gray-500">
                     Operation Officer
                   </p>
@@ -224,10 +227,10 @@ const Testimonial = () => {
                   <div className="flex flex-col justify-between lgl:items-center py-6 border-b-2 border-b-gray-900">
                     <div>
                       <h3 className="text-xl lgl:text-2xl font-medium tracking-wide">
-                        Travel Mobile App Design.
+                        Web Development and Training.
                       </h3>
                       <p className="text-base text-gray-400 mt-3">
-                        via Upwork - Mar 4, 2015 - Aug 30, 2021 test
+                        via Linkedin - Aug 25, 2023 - Present
                       </p>
                     </div>
                     <div className="text-yellow-500 flex gap-1">
@@ -239,11 +242,12 @@ const Testimonial = () => {
                     </div>
                   </div>
                   <p className="text-base font-titleFont text-gray-400 font-medium tracking-wide leading-6">
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. A
-                    dolorum, eos natus ipsum numquam veniam officia
-                    necessitatibus ratione quos debitis exercitationem
-                    repudiandae facilis id neque nihil accusantium perspiciatis
-                    repellat? Iste.
+                    Jone has been an invaluable asset to our team at FastNet
+                    Cyber Solutions. His expertise in web development and
+                    training has significantly enhanced our capabilities. Jone's
+                    ability to design and develop user-friendly web applications
+                    is truly impressive. We highly recommend Jone for any web
+                    development and training needs.
                   </p>
                 </div>
               </div>
